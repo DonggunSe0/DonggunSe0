@@ -1,4 +1,4 @@
-# 🚀 Donggeon Seo | 서동건
+# 🚀 Donggun Seo | 서동건
 
 안녕하세요.  
 동국대학교 컴퓨터·AI학부에서 공부하며,  
