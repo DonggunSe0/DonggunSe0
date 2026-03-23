@@ -1,7 +1,6 @@
 # 🚀 Donggun Seo | 서동건
 
 안녕하세요.  
-동국대학교 컴퓨터·AI학부에서 공부하며,  
 **기술로 실제 문제를 해결하는 개발자**를 목표로 성장하고 있습니다.
 
 단순한 기능 구현을 넘어,  
@@ -15,8 +14,6 @@
 - 🎓 **동국대학교 컴퓨터·AI학부 재학**
 - 🌱 **Spring Boot 기반 백엔드 개발**과 **AI 서비스 설계**에 관심
 - 🧠 단순 구현보다 **문제 정의 → 로직 설계 → 사용자 가치**까지 고민하는 개발자
-- 📌 **2026년 7월 완료 목표의 장기 프로젝트 진행 중**
-- 📚 꾸준히 코딩테스트, 백엔드 설계, 데이터 활용 역량을 확장 중
 
 ---
 
@@ -32,13 +29,17 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Data
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-5A67D8?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge)
 
 ### Tools & Collaboration
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Cloud & Certification
+![AWS](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -58,7 +59,7 @@
 
 ### ⚠️ AI 이어폰 위험 상황 알림 시스템
 - **역할:** 위험 감지 로직 및 프로토타입 개발
-- **핵심 기술:** 실시간 소리 분석, 사용자 안전 보조 로직
+- **핵심 기술:** **TensorFlow**, 실시간 소리 분석, 사용자 안전 보조 로직
 - **설명:** 외부 위험 상황을 빠르게 감지해 사용자에게 알려주는 안전 보조 기술을 연구한 프로젝트
 
 ---
@@ -85,5 +86,3 @@
 - **Name:** Donggun Seo / 서동건
 - **GitHub:** [github.com/DonggunSe0](https://github.com/DonggunSe0)
 - **Email:** cloudhenry1@gmail.com
-
----
