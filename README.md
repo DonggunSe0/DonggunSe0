@@ -56,23 +56,6 @@
 
 ---
 
-## 📈 Education & Growth
-
-- **University:** 동국대학교 컴퓨터·AI학부
-- **Certification:** AWS AI Practitioner
-- **Ongoing:** 실무형 개발 역량과 문제 해결 능력을 키우기 위한 장기 프로젝트 수행 중
-
----
-
-## 🎯 What I Focus On
-
-- 견고한 **백엔드 로직 설계**
-- 실제 사용성을 고려한 **AI 서비스 구현**
-- 데이터와 흐름을 이해하는 **문제 해결 중심 개발**
-- 협업 과정에서 명확하게 소통하는 **개발자 커뮤니케이션**
-
----
-
 ## 📫 Contact
 
 - **Name:** Donggun Seo / 서동건
